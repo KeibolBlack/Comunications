@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Seminario 4</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="exchange_image_action">Exchange images (Socket)</string>
+    <string name="ping_action">Ping (LocalSocket)</string>
+    <string name="http_action">Weather (HTTP)</string>
+    <string name="handler_action_conMensaje">Handler Comm (with Messages)</string>
+    <string name="handler_action_conRunnable">Handler Comm (with Runnables)</string>
+    <string name="title_activity_socket">Exchange images</string>
+    <string name="exchange_images_server">Server</string>
+    <string name="exchange_images_client">Client</string>
+    <string name="exchange_images_address">IP Address: </string>
+    <string name="available_addresses">IP Addresses available (select one): </string>
+    <string name="exchange_images_port">Port number: </string>
+    <string name="exchange_images_start">Start receiving images</string>
+    <string name="exchange_images_stop">Stop receiving images</string>
+    <string name="exchange_images_address_hint">The IP to send images to</string>
+    <string name="exchange_images_port_hint">The port number to connect to</string>
+    <string name="gallery_button">Select image to be sent</string>
+    <string name="exchange_images_send">Send image</string>
+    <string name="message_server_on">"Server waiting for connections&#8230;\n"</string>
+    <string name="message_server_receiving_image">"Connection received, starting to get an incoming image&#8230;\n"</string>
+    <string name="message_server_error">"Error while receiving the image, server closed\n"</string>
+    <string name="message_server_off">"Server closed\n"</string>
+    <string name="not_connected">"The device is not connected to the network!"</string>
+    <string name="title_activity_http">HTTPActivity</string>
+    <string name="weather_button">Check</string>
+    <string name="weather_radio_button_xml">XML</string>
+    <string name="weather_radio_button_json">JSON</string>
+    <string name="weather_radio_button_gson">GSON</string>
+    <string name="title_activity_progress_bar">ProgressBarActivity</string>
+    <string name="title_activity_progress_bar_activity_con_runnable">
+        ProgressBarActivity_conRunnable
+    </string>
+    
+</resources>
